@@ -126,3 +126,124 @@
 2019-07-25 21:09:22,572 - automationPratice -INFO - Random email inputed
 2019-07-25 21:09:22,703 - automationPratice -INFO - Create an account button clicked
 2019-07-25 21:09:22,716 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 18:57:56,240 - automationPratice -INFO - Sign in button clicked
+2019-07-29 18:57:56,499 - automationPratice -INFO - User name inputed
+2019-07-29 18:57:56,695 - automationPratice -INFO - Password inputed
+2019-07-29 18:57:58,396 - automationPratice -INFO - User successfully signed in
+2019-07-29 18:57:58,412 - automationPratice -INFO - Test passed
+2019-07-29 18:58:09,600 - automationPratice -INFO - Sign in button clicked
+2019-07-29 18:58:09,989 - automationPratice -INFO - Random email inputed
+2019-07-29 18:58:10,153 - automationPratice -INFO - Create an account button clicked
+2019-07-29 18:58:10,169 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 18:59:12,216 - automationPratice -INFO - Sign in button clicked
+2019-07-29 18:59:12,447 - automationPratice -INFO - User name inputed
+2019-07-29 18:59:12,635 - automationPratice -INFO - Password inputed
+2019-07-29 18:59:13,995 - automationPratice -INFO - User successfully signed in
+2019-07-29 18:59:14,013 - automationPratice -INFO - Test passed
+2019-07-29 18:59:24,539 - automationPratice -INFO - Sign in button clicked
+2019-07-29 18:59:24,887 - automationPratice -INFO - Random email inputed
+2019-07-29 18:59:25,014 - automationPratice -INFO - Create an account button clicked
+2019-07-29 18:59:25,028 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:00:36,055 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:00:36,290 - automationPratice -INFO - User name inputed
+2019-07-29 19:00:36,471 - automationPratice -INFO - Password inputed
+2019-07-29 19:00:37,972 - automationPratice -INFO - User successfully signed in
+2019-07-29 19:00:37,989 - automationPratice -INFO - Test passed
+2019-07-29 19:00:48,485 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:00:48,847 - automationPratice -INFO - Random email inputed
+2019-07-29 19:00:48,982 - automationPratice -INFO - Create an account button clicked
+2019-07-29 19:00:48,994 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:01:49,544 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:01:49,792 - automationPratice -INFO - User name inputed
+2019-07-29 19:01:49,992 - automationPratice -INFO - Password inputed
+2019-07-29 19:01:51,381 - automationPratice -INFO - User successfully signed in
+2019-07-29 19:01:51,401 - automationPratice -INFO - Test passed
+2019-07-29 19:02:02,157 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:02:02,562 - automationPratice -INFO - Random email inputed
+2019-07-29 19:02:02,710 - automationPratice -INFO - Create an account button clicked
+2019-07-29 19:02:02,722 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:07:50,491 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:07:50,735 - automationPratice -INFO - User name inputed
+2019-07-29 19:07:50,939 - automationPratice -INFO - Password inputed
+2019-07-29 19:07:52,651 - automationPratice -INFO - User successfully signed in
+2019-07-29 19:07:52,670 - automationPratice -INFO - Test passed
+2019-07-29 19:08:03,171 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:08:03,549 - automationPratice -INFO - Random email inputed
+2019-07-29 19:08:03,671 - automationPratice -INFO - Create an account button clicked
+2019-07-29 19:08:03,682 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:38:16,274 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:38:16,514 - automationPratice -INFO - User name inputed
+2019-07-29 19:38:16,707 - automationPratice -INFO - Password inputed
+2019-07-29 19:38:18,435 - automationPratice -INFO - User successfully signed in
+2019-07-29 19:38:18,449 - automationPratice -INFO - Test passed
+2019-07-29 19:38:28,344 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:38:28,709 - automationPratice -INFO - Random email inputed
+2019-07-29 19:38:28,856 - automationPratice -INFO - Create an account button clicked
+2019-07-29 19:38:28,869 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:38:30,155 - automationPratice -INFO - Title selected
+2019-07-29 19:38:30,333 - automationPratice -INFO - Entered first name
+2019-07-29 19:38:30,501 - automationPratice -INFO - Entered last name
+2019-07-29 19:38:30,746 - automationPratice -INFO - Entered password
+2019-07-29 19:38:30,925 - automationPratice -INFO - Picked day of birth
+2019-07-29 19:39:13,944 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:39:14,156 - automationPratice -INFO - User name inputed
+2019-07-29 19:39:14,311 - automationPratice -INFO - Password inputed
+2019-07-29 19:39:15,878 - automationPratice -INFO - User successfully signed in
+2019-07-29 19:39:15,898 - automationPratice -INFO - Test passed
+2019-07-29 19:39:26,541 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:39:26,916 - automationPratice -INFO - Random email inputed
+2019-07-29 19:39:27,052 - automationPratice -INFO - Create an account button clicked
+2019-07-29 19:39:27,069 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:42:29,735 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:42:29,995 - automationPratice -INFO - User name inputed
+2019-07-29 19:42:30,192 - automationPratice -INFO - Password inputed
+2019-07-29 19:42:32,096 - automationPratice -INFO - User successfully signed in
+2019-07-29 19:42:32,108 - automationPratice -INFO - Test passed
+2019-07-29 19:42:42,352 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:42:42,777 - automationPratice -INFO - Random email inputed
+2019-07-29 19:42:42,919 - automationPratice -INFO - Create an account button clicked
+2019-07-29 19:42:42,933 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:42:44,360 - automationPratice -INFO - Title selected
+2019-07-29 19:42:44,522 - automationPratice -INFO - Entered first name
+2019-07-29 19:42:44,683 - automationPratice -INFO - Entered last name
+2019-07-29 19:42:44,921 - automationPratice -INFO - Entered password
+2019-07-29 19:42:45,129 - automationPratice -INFO - Picked day of birth
+2019-07-29 19:42:45,293 - automationPratice -INFO - Picked Month of birth
+2019-07-29 19:42:45,444 - automationPratice -INFO - Picked year of birth
+2019-07-29 19:42:45,556 - automationPratice -INFO - Sign up for our newsletter selected
+2019-07-29 19:42:45,662 - automationPratice -INFO - Special offers selected
+2019-07-29 19:42:45,819 - automationPratice -INFO - Entered company name
+2019-07-29 19:42:45,958 - automationPratice -INFO - Entered adress
+2019-07-29 19:42:46,082 - automationPratice -INFO - Entered city
+2019-07-29 19:42:46,228 - automationPratice -INFO - Picked state
+2019-07-29 19:42:46,365 - automationPratice -INFO - Entered zip code
+2019-07-29 19:42:46,455 - automationPratice -INFO - Picked country
+2019-07-29 19:42:46,598 - automationPratice -INFO - Entered mobile phone number
+2019-07-29 19:42:48,357 - automationPratice -INFO - Clicked register button
+2019-07-29 19:51:37,298 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:51:37,511 - automationPratice -INFO - User name inputed
+2019-07-29 19:51:37,684 - automationPratice -INFO - Password inputed
+2019-07-29 19:51:39,096 - automationPratice -INFO - User successfully signed in
+2019-07-29 19:51:39,123 - automationPratice -INFO - Test passed
+2019-07-29 19:51:49,417 - automationPratice -INFO - Sign in button clicked
+2019-07-29 19:51:49,851 - automationPratice -INFO - Random email inputed
+2019-07-29 19:51:49,990 - automationPratice -INFO - Create an account button clicked
+2019-07-29 19:51:50,001 - automationPratice -INFO - Succesfully get to account details page
+2019-07-29 19:51:51,581 - automationPratice -INFO - Title selected
+2019-07-29 19:51:51,755 - automationPratice -INFO - Entered first name
+2019-07-29 19:51:51,916 - automationPratice -INFO - Entered last name
+2019-07-29 19:51:52,152 - automationPratice -INFO - Entered password
+2019-07-29 19:51:52,335 - automationPratice -INFO - Picked day of birth
+2019-07-29 19:51:52,493 - automationPratice -INFO - Picked Month of birth
+2019-07-29 19:51:52,643 - automationPratice -INFO - Picked year of birth
+2019-07-29 19:51:52,763 - automationPratice -INFO - Sign up for our newsletter selected
+2019-07-29 19:51:52,869 - automationPratice -INFO - Special offers selected
+2019-07-29 19:51:53,028 - automationPratice -INFO - Entered company name
+2019-07-29 19:51:53,171 - automationPratice -INFO - Entered adress
+2019-07-29 19:51:53,303 - automationPratice -INFO - Entered city
+2019-07-29 19:51:53,464 - automationPratice -INFO - Picked state
+2019-07-29 19:51:53,623 - automationPratice -INFO - Entered zip code
+2019-07-29 19:51:53,723 - automationPratice -INFO - Picked country
+2019-07-29 19:51:53,890 - automationPratice -INFO - Entered mobile phone number
+2019-07-29 19:51:55,244 - automationPratice -INFO - Clicked register button
+2019-07-29 19:51:55,279 - automationPratice -INFO - Succesfully created account

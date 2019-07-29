@@ -60,7 +60,7 @@ public class LoginPage {
         CreateAccInput.click();
         Random randomGenerator = new Random ();
         int randomInt = randomGenerator.nextInt(1000);
-        CreateAccInput.sendKeys("Test" + randomInt + "gmail.com");
+        CreateAccInput.sendKeys(randomInt +"Test" + randomInt + "@yahoo.com");
     }
 
     public void clickCreateAccount ()

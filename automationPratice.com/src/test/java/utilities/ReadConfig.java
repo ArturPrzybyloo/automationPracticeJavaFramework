@@ -39,6 +39,18 @@ public class ReadConfig {
         return password;
     }
 
+    public String getFirstName ()
+    {
+        String firstName = pro.getProperty("firstName");
+        return firstName;
+    }
+
+    public String getLastName ()
+    {
+        String lastName = pro.getProperty("lastName");
+        return lastName;
+    }
+
     public String getChromeDriver ()
     {
         String chrome = pro.getProperty("chrome");

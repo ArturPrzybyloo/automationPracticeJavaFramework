@@ -4,3 +4,5 @@ password = Testy12345
 chrome = ./Drivers\\chromedriver.exe
 firefox = ./Drivers\\geckodriver.exe
 ie = ./Drivers\\IEDriverServer.exe
+firstName = Andrzej
+lastName = Kowalski
