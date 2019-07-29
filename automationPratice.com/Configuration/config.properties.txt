@@ -1,0 +1,6 @@
+baseURL = http://www.automationpractice.com/index.php
+userID = Testy12345@test.com
+password = Testy12345
+chrome = ./Drivers\\chromedriver.exe
+firefox = ./Drivers\\geckodriver.exe
+ie = ./Drivers\\IEDriverServer.exe
