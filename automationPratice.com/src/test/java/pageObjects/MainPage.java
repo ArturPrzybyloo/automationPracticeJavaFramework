@@ -1,5 +1,6 @@
 package pageObjects;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -58,6 +59,10 @@ public class MainPage {
     @FindBy(xpath = "//*[@title='Log me out']")
     @CacheLookup
     WebElement signOutButton;
+
+    @FindBy(id = "search_query_top")
+    @CacheLookup
+    WebElement searchInput;
 
 
 
@@ -118,6 +123,12 @@ public class MainPage {
             Assert.assertTrue(false);
             bc.logger.info("Test Failed");
         }
+    }
+
+    public void enterSearchText (String search)
+    {
+        searchInput.sendKeys(search);
+        searchInput.sendKeys(Keys.RETURN);
     }
 
 

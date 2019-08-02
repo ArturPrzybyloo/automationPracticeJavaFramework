@@ -74,4 +74,10 @@ public class ReadConfig {
         return message;
     }
 
+    public String getSearch ()
+    {
+        String search = pro.getProperty("search");
+        return search;
+    }
+
 }

@@ -31,6 +31,7 @@ public class BaseClass {
     public String firstName = readconfig.getFirstName();
     public String lastName = readconfig.getLastName();
     public String message = readconfig.getMessage();
+    public String search = readconfig.getSearch();
 
     public static WebDriver driver;
     public static Logger logger;

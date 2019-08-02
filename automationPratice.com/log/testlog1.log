@@ -1174,3 +1174,194 @@
 2019-08-02 18:52:28,220 [main] INFO automationPratice - Clicked sign out button
 2019-08-02 18:52:28,302 [main] INFO automationPratice - Sign In button is displayed
 2019-08-02 18:52:28,302 [main] INFO automationPratice - Test passed
+2019-08-02 19:44:59,385 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 19:44:59,594 [main] INFO automationPratice - User name inputed
+2019-08-02 19:44:59,767 [main] INFO automationPratice - Password inputed
+2019-08-02 19:45:01,312 [main] INFO automationPratice - User successfully signed in
+2019-08-02 19:45:01,331 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 19:45:12,465 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 19:45:12,811 [main] INFO automationPratice - Random email inputed
+2019-08-02 19:45:12,944 [main] INFO automationPratice - Create an account button clicked
+2019-08-02 19:45:12,957 [main] INFO automationPratice - Succesfully get to account details page
+2019-08-02 19:45:14,761 [main] INFO automationPratice - Title selected
+2019-08-02 19:45:14,925 [main] INFO automationPratice - Entered first name
+2019-08-02 19:45:15,088 [main] INFO automationPratice - Entered last name
+2019-08-02 19:45:15,347 [main] INFO automationPratice - Entered password
+2019-08-02 19:45:15,559 [main] INFO automationPratice - Picked day of birth
+2019-08-02 19:45:15,724 [main] INFO automationPratice - Picked Month of birth
+2019-08-02 19:45:15,875 [main] INFO automationPratice - Picked year of birth
+2019-08-02 19:45:15,992 [main] INFO automationPratice - Sign up for our newsletter selected
+2019-08-02 19:45:16,097 [main] INFO automationPratice - Special offers selected
+2019-08-02 19:45:16,259 [main] INFO automationPratice - Entered company name
+2019-08-02 19:45:16,403 [main] INFO automationPratice - Entered adress
+2019-08-02 19:45:16,536 [main] INFO automationPratice - Entered city
+2019-08-02 19:45:16,716 [main] INFO automationPratice - Picked state
+2019-08-02 19:45:16,939 [main] INFO automationPratice - Entered zip code
+2019-08-02 19:45:17,046 [main] INFO automationPratice - Picked country
+2019-08-02 19:45:17,187 [main] INFO automationPratice - Entered mobile phone number
+2019-08-02 19:45:19,173 [main] INFO automationPratice - Clicked register button
+2019-08-02 19:45:19,197 [main] INFO automationPratice - Succesfully created account
+2019-08-02 19:45:29,843 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 19:45:30,089 [main] INFO automationPratice - User name inputed
+2019-08-02 19:45:30,282 [main] INFO automationPratice - Password inputed
+2019-08-02 19:45:31,648 [main] INFO automationPratice - User successfully signed in
+2019-08-02 19:45:31,667 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 19:45:33,225 [main] INFO automationPratice - Clicked on Contact us button
+2019-08-02 19:45:33,380 [main] INFO automationPratice - Subject of mesasge was picked
+2019-08-02 19:45:33,458 [main] INFO automationPratice - Attached txt file
+2019-08-02 19:45:33,622 [main] INFO automationPratice - Entered test message
+2019-08-02 19:45:34,617 [main] INFO automationPratice - Clicked send button
+2019-08-02 19:45:34,667 [main] INFO automationPratice - Sucess screen appears
+2019-08-02 19:45:34,668 [main] INFO automationPratice - Succesfully sent message
+2019-08-02 19:45:45,282 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 19:45:45,507 [main] INFO automationPratice - User name inputed
+2019-08-02 19:45:45,668 [main] INFO automationPratice - Password inputed
+2019-08-02 19:45:47,161 [main] INFO automationPratice - User successfully signed in
+2019-08-02 19:45:47,183 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 19:45:49,339 [main] INFO automationPratice - Clicked sign out button
+2019-08-02 19:45:49,392 [main] INFO automationPratice - Sign In button is displayed
+2019-08-02 19:45:49,392 [main] INFO automationPratice - Test passed
+2019-08-02 20:03:02,209 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:03:02,475 [main] INFO automationPratice - User name inputed
+2019-08-02 20:03:02,689 [main] INFO automationPratice - Password inputed
+2019-08-02 20:03:04,110 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:03:04,134 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:03:14,546 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:03:14,967 [main] INFO automationPratice - Random email inputed
+2019-08-02 20:03:15,126 [main] INFO automationPratice - Create an account button clicked
+2019-08-02 20:03:15,136 [main] INFO automationPratice - Succesfully get to account details page
+2019-08-02 20:03:16,413 [main] INFO automationPratice - Title selected
+2019-08-02 20:03:16,611 [main] INFO automationPratice - Entered first name
+2019-08-02 20:03:16,796 [main] INFO automationPratice - Entered last name
+2019-08-02 20:03:17,069 [main] INFO automationPratice - Entered password
+2019-08-02 20:03:17,320 [main] INFO automationPratice - Picked day of birth
+2019-08-02 20:03:17,514 [main] INFO automationPratice - Picked Month of birth
+2019-08-02 20:03:17,679 [main] INFO automationPratice - Picked year of birth
+2019-08-02 20:03:17,824 [main] INFO automationPratice - Sign up for our newsletter selected
+2019-08-02 20:03:17,950 [main] INFO automationPratice - Special offers selected
+2019-08-02 20:03:18,145 [main] INFO automationPratice - Entered company name
+2019-08-02 20:03:18,314 [main] INFO automationPratice - Entered adress
+2019-08-02 20:03:18,459 [main] INFO automationPratice - Entered city
+2019-08-02 20:03:18,630 [main] INFO automationPratice - Picked state
+2019-08-02 20:03:18,804 [main] INFO automationPratice - Entered zip code
+2019-08-02 20:03:18,911 [main] INFO automationPratice - Picked country
+2019-08-02 20:03:19,078 [main] INFO automationPratice - Entered mobile phone number
+2019-08-02 20:03:20,886 [main] INFO automationPratice - Clicked register button
+2019-08-02 20:03:20,936 [main] INFO automationPratice - Succesfully created account
+2019-08-02 20:03:31,509 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:03:31,735 [main] INFO automationPratice - User name inputed
+2019-08-02 20:03:31,909 [main] INFO automationPratice - Password inputed
+2019-08-02 20:03:33,234 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:03:33,247 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:03:34,391 [main] INFO automationPratice - Clicked on Contact us button
+2019-08-02 20:03:34,532 [main] INFO automationPratice - Subject of mesasge was picked
+2019-08-02 20:03:34,605 [main] INFO automationPratice - Attached txt file
+2019-08-02 20:03:34,755 [main] INFO automationPratice - Entered test message
+2019-08-02 20:03:35,572 [main] INFO automationPratice - Clicked send button
+2019-08-02 20:03:35,622 [main] INFO automationPratice - Sucess screen appears
+2019-08-02 20:03:35,623 [main] INFO automationPratice - Succesfully sent message
+2019-08-02 20:03:46,179 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:03:46,368 [main] INFO automationPratice - User name inputed
+2019-08-02 20:03:46,539 [main] INFO automationPratice - Password inputed
+2019-08-02 20:03:47,871 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:03:47,889 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:03:49,631 [main] INFO automationPratice - Clicked sign out button
+2019-08-02 20:03:49,697 [main] INFO automationPratice - Sign In button is displayed
+2019-08-02 20:03:49,698 [main] INFO automationPratice - Test passed
+2019-08-02 20:03:59,728 [main] INFO automationPratice - Entered searched keyword
+2019-08-02 20:10:01,678 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:10:01,920 [main] INFO automationPratice - User name inputed
+2019-08-02 20:10:02,113 [main] INFO automationPratice - Password inputed
+2019-08-02 20:10:03,544 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:10:03,560 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:10:14,118 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:10:14,539 [main] INFO automationPratice - Random email inputed
+2019-08-02 20:10:14,677 [main] INFO automationPratice - Create an account button clicked
+2019-08-02 20:10:14,692 [main] INFO automationPratice - Succesfully get to account details page
+2019-08-02 20:10:16,032 [main] INFO automationPratice - Title selected
+2019-08-02 20:10:16,199 [main] INFO automationPratice - Entered first name
+2019-08-02 20:10:16,356 [main] INFO automationPratice - Entered last name
+2019-08-02 20:10:16,598 [main] INFO automationPratice - Entered password
+2019-08-02 20:10:16,797 [main] INFO automationPratice - Picked day of birth
+2019-08-02 20:10:16,968 [main] INFO automationPratice - Picked Month of birth
+2019-08-02 20:10:17,116 [main] INFO automationPratice - Picked year of birth
+2019-08-02 20:10:17,230 [main] INFO automationPratice - Sign up for our newsletter selected
+2019-08-02 20:10:17,332 [main] INFO automationPratice - Special offers selected
+2019-08-02 20:10:17,494 [main] INFO automationPratice - Entered company name
+2019-08-02 20:10:17,630 [main] INFO automationPratice - Entered adress
+2019-08-02 20:10:17,757 [main] INFO automationPratice - Entered city
+2019-08-02 20:10:17,902 [main] INFO automationPratice - Picked state
+2019-08-02 20:10:18,040 [main] INFO automationPratice - Entered zip code
+2019-08-02 20:10:18,124 [main] INFO automationPratice - Picked country
+2019-08-02 20:10:18,270 [main] INFO automationPratice - Entered mobile phone number
+2019-08-02 20:10:19,676 [main] INFO automationPratice - Clicked register button
+2019-08-02 20:10:19,710 [main] INFO automationPratice - Succesfully created account
+2019-08-02 20:10:30,243 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:10:30,484 [main] INFO automationPratice - User name inputed
+2019-08-02 20:10:30,673 [main] INFO automationPratice - Password inputed
+2019-08-02 20:10:32,057 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:10:32,075 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:10:33,306 [main] INFO automationPratice - Clicked on Contact us button
+2019-08-02 20:10:33,458 [main] INFO automationPratice - Subject of mesasge was picked
+2019-08-02 20:10:33,535 [main] INFO automationPratice - Attached txt file
+2019-08-02 20:10:33,706 [main] INFO automationPratice - Entered test message
+2019-08-02 20:10:34,580 [main] INFO automationPratice - Clicked send button
+2019-08-02 20:10:34,627 [main] INFO automationPratice - Sucess screen appears
+2019-08-02 20:10:34,627 [main] INFO automationPratice - Succesfully sent message
+2019-08-02 20:10:45,581 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:10:45,818 [main] INFO automationPratice - User name inputed
+2019-08-02 20:10:46,026 [main] INFO automationPratice - Password inputed
+2019-08-02 20:10:47,586 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:10:47,607 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:10:49,460 [main] INFO automationPratice - Clicked sign out button
+2019-08-02 20:10:49,513 [main] INFO automationPratice - Sign In button is displayed
+2019-08-02 20:10:49,513 [main] INFO automationPratice - Test passed
+2019-08-02 20:10:59,896 [main] INFO automationPratice - Entered searched keyword
+2019-08-02 20:14:03,668 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:14:03,955 [main] INFO automationPratice - User name inputed
+2019-08-02 20:14:04,142 [main] INFO automationPratice - Password inputed
+2019-08-02 20:14:05,491 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:14:05,510 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:14:15,803 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:14:16,164 [main] INFO automationPratice - Random email inputed
+2019-08-02 20:14:16,306 [main] INFO automationPratice - Create an account button clicked
+2019-08-02 20:14:16,318 [main] INFO automationPratice - Succesfully get to account details page
+2019-08-02 20:14:17,643 [main] INFO automationPratice - Title selected
+2019-08-02 20:14:17,811 [main] INFO automationPratice - Entered first name
+2019-08-02 20:14:17,967 [main] INFO automationPratice - Entered last name
+2019-08-02 20:14:18,210 [main] INFO automationPratice - Entered password
+2019-08-02 20:14:18,416 [main] INFO automationPratice - Picked day of birth
+2019-08-02 20:14:18,590 [main] INFO automationPratice - Picked Month of birth
+2019-08-02 20:14:18,741 [main] INFO automationPratice - Picked year of birth
+2019-08-02 20:14:18,856 [main] INFO automationPratice - Sign up for our newsletter selected
+2019-08-02 20:14:18,961 [main] INFO automationPratice - Special offers selected
+2019-08-02 20:14:19,128 [main] INFO automationPratice - Entered company name
+2019-08-02 20:14:19,290 [main] INFO automationPratice - Entered adress
+2019-08-02 20:14:19,412 [main] INFO automationPratice - Entered city
+2019-08-02 20:14:19,560 [main] INFO automationPratice - Picked state
+2019-08-02 20:14:19,696 [main] INFO automationPratice - Entered zip code
+2019-08-02 20:14:19,782 [main] INFO automationPratice - Picked country
+2019-08-02 20:14:19,931 [main] INFO automationPratice - Entered mobile phone number
+2019-08-02 20:14:21,293 [main] INFO automationPratice - Clicked register button
+2019-08-02 20:14:21,332 [main] INFO automationPratice - Succesfully created account
+2019-08-02 20:14:31,920 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:14:32,128 [main] INFO automationPratice - User name inputed
+2019-08-02 20:14:32,295 [main] INFO automationPratice - Password inputed
+2019-08-02 20:14:33,657 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:14:33,671 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:14:34,931 [main] INFO automationPratice - Clicked on Contact us button
+2019-08-02 20:14:35,069 [main] INFO automationPratice - Subject of mesasge was picked
+2019-08-02 20:14:35,137 [main] INFO automationPratice - Attached txt file
+2019-08-02 20:14:35,289 [main] INFO automationPratice - Entered test message
+2019-08-02 20:14:36,117 [main] INFO automationPratice - Clicked send button
+2019-08-02 20:14:36,169 [main] INFO automationPratice - Sucess screen appears
+2019-08-02 20:14:36,169 [main] INFO automationPratice - Succesfully sent message
+2019-08-02 20:14:46,484 [main] INFO automationPratice - Sign in button clicked
+2019-08-02 20:14:46,714 [main] INFO automationPratice - User name inputed
+2019-08-02 20:14:46,907 [main] INFO automationPratice - Password inputed
+2019-08-02 20:14:48,601 [main] INFO automationPratice - User successfully signed in
+2019-08-02 20:14:48,614 [main] INFO automationPratice - Sucessfully loged in
+2019-08-02 20:14:50,314 [main] INFO automationPratice - Clicked sign out button
+2019-08-02 20:14:50,400 [main] INFO automationPratice - Sign In button is displayed
+2019-08-02 20:14:50,401 [main] INFO automationPratice - Test passed
+2019-08-02 20:15:01,165 [main] INFO automationPratice - Entered searched keyword
