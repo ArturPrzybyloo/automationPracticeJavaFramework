@@ -13,6 +13,10 @@
         <classes>
             <class name="testCases.TC_LoginTest_1" />
             <class name="testCases.TC_SignInTest_2" />
+            <class name="testCases.TC_ContactUsTest_4" />
+            <class name="testCases.TC_SignOutTest_5" />
+
+
 
 
 

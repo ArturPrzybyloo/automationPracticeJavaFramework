@@ -30,6 +30,7 @@ public class BaseClass {
     public String password = readconfig.getPassword();
     public String firstName = readconfig.getFirstName();
     public String lastName = readconfig.getLastName();
+    public String message = readconfig.getMessage();
 
     public static WebDriver driver;
     public static Logger logger;
@@ -49,7 +50,7 @@ public class BaseClass {
         {
             System.setProperty("webdriver.chrome.driver", readconfig.getChromeDriver());
             driver = new ChromeDriver();
-            driver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
+            driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
             driver.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
             driver.manage().window().maximize();
             driver.get(baseURL);
@@ -58,7 +59,7 @@ public class BaseClass {
         {
             System.setProperty("webdriver.gecko.driver", readconfig.getFirefoxDriver());
             driver = new FirefoxDriver();
-            driver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
+            driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
             driver.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
             driver.manage().window().maximize();
             driver.get(baseURL);
@@ -67,7 +68,7 @@ public class BaseClass {
         {
             System.setProperty("webdriver.ie.driver", readconfig.getIEDriver());
             driver = new InternetExplorerDriver();
-            driver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
+            driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
             driver.manage().timeouts().implicitlyWait(2,TimeUnit.SECONDS);
             driver.manage().window().maximize();
             driver.get(baseURL);

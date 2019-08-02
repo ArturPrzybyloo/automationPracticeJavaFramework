@@ -29,7 +29,7 @@ public class TC_LoginTest_1 extends BaseClass {
         if (driver.getTitle().equals("My account - My Store"))
         {
             Assert.assertTrue(true);
-            logger.info("Test passed");
+            logger.info("Sucessfully loged in");
         }
         else
         {

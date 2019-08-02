@@ -68,5 +68,10 @@ public class ReadConfig {
         String IE = pro.getProperty("ie");
         return IE;
     }
+    public String getMessage ()
+    {
+        String message = pro.getProperty("message");
+        return message;
+    }
 
 }
