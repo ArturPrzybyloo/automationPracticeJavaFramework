@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="automationPratice">
+
+    <listeners>
+        <listener class-name="utilities.Reporting" />
+    </listeners>
+
+
+    <test name="automationPratice Test">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="testCases.TC_LoginTest_1" />
+            <class name="testCases.TC_SignInTest_2" />
+            <class name="testCases.TC_ContactUsTest_4" />
+            <class name="testCases.TC_SignOutTest_5" />
+
+
+
+
+
+        </classes>
+
+    </test>
+
+</suite>
