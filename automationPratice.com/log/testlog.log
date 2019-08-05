@@ -1365,3 +1365,676 @@
 2019-08-02 20:14:50,400 - automationPratice -INFO - Sign In button is displayed
 2019-08-02 20:14:50,401 - automationPratice -INFO - Test passed
 2019-08-02 20:15:01,165 - automationPratice -INFO - Entered searched keyword
+2019-08-04 14:40:12,702 - automationPratice -INFO - Sign in button clicked
+2019-08-04 14:40:12,954 - automationPratice -INFO - User name inputed
+2019-08-04 14:40:13,150 - automationPratice -INFO - Password inputed
+2019-08-04 14:40:14,543 - automationPratice -INFO - User successfully signed in
+2019-08-04 14:40:14,562 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 14:41:20,976 - automationPratice -INFO - Sign in button clicked
+2019-08-04 14:41:21,189 - automationPratice -INFO - User name inputed
+2019-08-04 14:41:21,350 - automationPratice -INFO - Password inputed
+2019-08-04 14:42:41,039 - automationPratice -INFO - Sign in button clicked
+2019-08-04 14:42:41,289 - automationPratice -INFO - User name inputed
+2019-08-04 14:42:41,509 - automationPratice -INFO - Password inputed
+2019-08-04 14:42:42,954 - automationPratice -INFO - User successfully signed in
+2019-08-04 14:42:42,977 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 14:42:53,238 - automationPratice -INFO - Sign in button clicked
+2019-08-04 14:42:53,672 - automationPratice -INFO - Random email inputed
+2019-08-04 14:42:53,814 - automationPratice -INFO - Create an account button clicked
+2019-08-04 14:42:53,829 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 14:42:55,237 - automationPratice -INFO - Title selected
+2019-08-04 14:42:55,439 - automationPratice -INFO - Entered first name
+2019-08-04 14:42:55,640 - automationPratice -INFO - Entered last name
+2019-08-04 14:42:55,928 - automationPratice -INFO - Entered password
+2019-08-04 14:42:56,207 - automationPratice -INFO - Picked day of birth
+2019-08-04 14:42:56,399 - automationPratice -INFO - Picked Month of birth
+2019-08-04 14:42:56,556 - automationPratice -INFO - Picked year of birth
+2019-08-04 14:42:56,696 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 14:42:56,815 - automationPratice -INFO - Special offers selected
+2019-08-04 14:42:57,007 - automationPratice -INFO - Entered company name
+2019-08-04 14:42:57,167 - automationPratice -INFO - Entered adress
+2019-08-04 14:42:57,308 - automationPratice -INFO - Entered city
+2019-08-04 14:42:57,488 - automationPratice -INFO - Picked state
+2019-08-04 14:42:57,644 - automationPratice -INFO - Entered zip code
+2019-08-04 14:42:57,748 - automationPratice -INFO - Picked country
+2019-08-04 14:42:57,912 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 14:42:59,297 - automationPratice -INFO - Clicked register button
+2019-08-04 14:42:59,324 - automationPratice -INFO - Succesfully created account
+2019-08-04 14:43:09,869 - automationPratice -INFO - Sign in button clicked
+2019-08-04 14:43:10,070 - automationPratice -INFO - User name inputed
+2019-08-04 14:43:10,229 - automationPratice -INFO - Password inputed
+2019-08-04 14:43:11,568 - automationPratice -INFO - User successfully signed in
+2019-08-04 14:43:11,586 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 14:43:12,729 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 14:43:12,876 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 14:43:12,951 - automationPratice -INFO - Attached txt file
+2019-08-04 14:43:13,102 - automationPratice -INFO - Entered test message
+2019-08-04 14:43:13,984 - automationPratice -INFO - Clicked send button
+2019-08-04 14:43:14,039 - automationPratice -INFO - Sucess screen appears
+2019-08-04 14:43:14,040 - automationPratice -INFO - Succesfully sent message
+2019-08-04 14:43:24,204 - automationPratice -INFO - Sign in button clicked
+2019-08-04 14:43:24,428 - automationPratice -INFO - User name inputed
+2019-08-04 14:43:24,628 - automationPratice -INFO - Password inputed
+2019-08-04 14:43:26,026 - automationPratice -INFO - User successfully signed in
+2019-08-04 14:43:26,049 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 14:43:27,684 - automationPratice -INFO - Clicked sign out button
+2019-08-04 14:43:27,745 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 14:43:27,745 - automationPratice -INFO - Test passed
+2019-08-04 14:43:37,837 - automationPratice -INFO - Sign in button clicked
+2019-08-04 14:43:38,041 - automationPratice -INFO - User name inputed
+2019-08-04 14:43:38,235 - automationPratice -INFO - Password inputed
+2019-08-04 14:43:39,669 - automationPratice -INFO - User successfully signed in
+2019-08-04 14:43:39,682 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 14:43:41,020 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:06:37,638 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:06:37,880 - automationPratice -INFO - User name inputed
+2019-08-04 15:06:38,060 - automationPratice -INFO - Password inputed
+2019-08-04 15:06:39,377 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:06:39,395 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:06:49,697 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:06:50,044 - automationPratice -INFO - Random email inputed
+2019-08-04 15:06:50,168 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:06:50,180 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:06:51,493 - automationPratice -INFO - Title selected
+2019-08-04 15:06:51,656 - automationPratice -INFO - Entered first name
+2019-08-04 15:06:51,814 - automationPratice -INFO - Entered last name
+2019-08-04 15:06:52,060 - automationPratice -INFO - Entered password
+2019-08-04 15:06:52,278 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:06:52,449 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:06:52,605 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:06:52,726 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:06:52,828 - automationPratice -INFO - Special offers selected
+2019-08-04 15:06:52,995 - automationPratice -INFO - Entered company name
+2019-08-04 15:06:53,142 - automationPratice -INFO - Entered adress
+2019-08-04 15:06:53,277 - automationPratice -INFO - Entered city
+2019-08-04 15:06:53,427 - automationPratice -INFO - Picked state
+2019-08-04 15:06:53,574 - automationPratice -INFO - Entered zip code
+2019-08-04 15:06:53,665 - automationPratice -INFO - Picked country
+2019-08-04 15:06:53,819 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:06:55,182 - automationPratice -INFO - Clicked register button
+2019-08-04 15:06:55,212 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:07:05,759 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:07:06,040 - automationPratice -INFO - User name inputed
+2019-08-04 15:07:06,238 - automationPratice -INFO - Password inputed
+2019-08-04 15:07:07,796 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:07:07,814 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:07:08,986 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:07:09,139 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:07:09,212 - automationPratice -INFO - Attached txt file
+2019-08-04 15:07:09,364 - automationPratice -INFO - Entered test message
+2019-08-04 15:07:10,164 - automationPratice -INFO - Clicked send button
+2019-08-04 15:07:10,210 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:07:10,211 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:07:21,168 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:07:21,394 - automationPratice -INFO - User name inputed
+2019-08-04 15:07:21,594 - automationPratice -INFO - Password inputed
+2019-08-04 15:07:23,234 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:07:23,256 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:07:25,085 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:07:25,149 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:07:25,149 - automationPratice -INFO - Test passed
+2019-08-04 15:07:35,536 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:07:35,782 - automationPratice -INFO - User name inputed
+2019-08-04 15:07:35,987 - automationPratice -INFO - Password inputed
+2019-08-04 15:07:37,425 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:07:37,440 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:07:38,824 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:13:48,996 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:13:49,221 - automationPratice -INFO - User name inputed
+2019-08-04 15:13:49,387 - automationPratice -INFO - Password inputed
+2019-08-04 15:13:50,877 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:13:50,895 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:14:01,290 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:14:01,723 - automationPratice -INFO - Random email inputed
+2019-08-04 15:14:01,867 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:14:01,882 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:14:03,307 - automationPratice -INFO - Title selected
+2019-08-04 15:14:03,503 - automationPratice -INFO - Entered first name
+2019-08-04 15:14:03,701 - automationPratice -INFO - Entered last name
+2019-08-04 15:14:03,986 - automationPratice -INFO - Entered password
+2019-08-04 15:14:04,240 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:14:04,447 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:14:04,603 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:14:04,756 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:14:04,874 - automationPratice -INFO - Special offers selected
+2019-08-04 15:14:05,058 - automationPratice -INFO - Entered company name
+2019-08-04 15:14:05,218 - automationPratice -INFO - Entered adress
+2019-08-04 15:14:05,368 - automationPratice -INFO - Entered city
+2019-08-04 15:14:05,541 - automationPratice -INFO - Picked state
+2019-08-04 15:14:05,712 - automationPratice -INFO - Entered zip code
+2019-08-04 15:14:05,819 - automationPratice -INFO - Picked country
+2019-08-04 15:14:05,987 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:14:08,001 - automationPratice -INFO - Clicked register button
+2019-08-04 15:14:08,037 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:14:19,075 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:14:19,304 - automationPratice -INFO - User name inputed
+2019-08-04 15:14:19,499 - automationPratice -INFO - Password inputed
+2019-08-04 15:14:21,187 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:14:21,200 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:14:22,497 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:14:22,666 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:14:22,738 - automationPratice -INFO - Attached txt file
+2019-08-04 15:14:22,910 - automationPratice -INFO - Entered test message
+2019-08-04 15:14:24,440 - automationPratice -INFO - Clicked send button
+2019-08-04 15:14:24,491 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:14:24,491 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:14:35,141 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:14:35,337 - automationPratice -INFO - User name inputed
+2019-08-04 15:14:35,515 - automationPratice -INFO - Password inputed
+2019-08-04 15:14:37,229 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:14:37,245 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:14:39,240 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:14:39,314 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:14:39,314 - automationPratice -INFO - Test passed
+2019-08-04 15:14:49,804 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:14:50,031 - automationPratice -INFO - User name inputed
+2019-08-04 15:14:50,221 - automationPratice -INFO - Password inputed
+2019-08-04 15:14:51,600 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:14:51,617 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:14:53,097 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:15:50,771 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:15:51,002 - automationPratice -INFO - User name inputed
+2019-08-04 15:15:51,190 - automationPratice -INFO - Password inputed
+2019-08-04 15:15:52,787 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:15:52,806 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:16:03,506 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:16:03,931 - automationPratice -INFO - Random email inputed
+2019-08-04 15:16:04,085 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:16:04,100 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:16:05,372 - automationPratice -INFO - Title selected
+2019-08-04 15:16:05,543 - automationPratice -INFO - Entered first name
+2019-08-04 15:16:05,705 - automationPratice -INFO - Entered last name
+2019-08-04 15:16:05,951 - automationPratice -INFO - Entered password
+2019-08-04 15:16:06,168 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:16:06,332 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:16:06,477 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:16:06,585 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:16:06,690 - automationPratice -INFO - Special offers selected
+2019-08-04 15:16:06,856 - automationPratice -INFO - Entered company name
+2019-08-04 15:16:07,003 - automationPratice -INFO - Entered adress
+2019-08-04 15:16:07,124 - automationPratice -INFO - Entered city
+2019-08-04 15:16:07,275 - automationPratice -INFO - Picked state
+2019-08-04 15:16:07,408 - automationPratice -INFO - Entered zip code
+2019-08-04 15:16:07,493 - automationPratice -INFO - Picked country
+2019-08-04 15:16:07,637 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:16:08,933 - automationPratice -INFO - Clicked register button
+2019-08-04 15:16:08,963 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:16:19,732 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:16:19,922 - automationPratice -INFO - User name inputed
+2019-08-04 15:16:20,094 - automationPratice -INFO - Password inputed
+2019-08-04 15:16:21,526 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:16:21,540 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:16:23,032 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:16:23,182 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:16:23,254 - automationPratice -INFO - Attached txt file
+2019-08-04 15:16:23,406 - automationPratice -INFO - Entered test message
+2019-08-04 15:16:24,310 - automationPratice -INFO - Clicked send button
+2019-08-04 15:16:24,362 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:16:24,363 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:16:34,719 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:16:34,922 - automationPratice -INFO - User name inputed
+2019-08-04 15:16:35,115 - automationPratice -INFO - Password inputed
+2019-08-04 15:16:36,592 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:16:36,607 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:16:38,814 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:16:38,892 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:16:38,893 - automationPratice -INFO - Test passed
+2019-08-04 15:16:49,455 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:16:49,687 - automationPratice -INFO - User name inputed
+2019-08-04 15:16:49,882 - automationPratice -INFO - Password inputed
+2019-08-04 15:16:51,440 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:16:51,455 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:16:53,741 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:17:44,653 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:17:44,909 - automationPratice -INFO - User name inputed
+2019-08-04 15:17:45,117 - automationPratice -INFO - Password inputed
+2019-08-04 15:17:46,625 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:17:46,645 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:17:56,984 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:17:57,347 - automationPratice -INFO - Random email inputed
+2019-08-04 15:17:57,483 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:17:57,495 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:17:58,842 - automationPratice -INFO - Title selected
+2019-08-04 15:17:59,013 - automationPratice -INFO - Entered first name
+2019-08-04 15:17:59,169 - automationPratice -INFO - Entered last name
+2019-08-04 15:17:59,493 - automationPratice -INFO - Entered password
+2019-08-04 15:17:59,734 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:17:59,927 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:18:00,105 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:18:00,241 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:18:00,362 - automationPratice -INFO - Special offers selected
+2019-08-04 15:18:00,546 - automationPratice -INFO - Entered company name
+2019-08-04 15:18:00,708 - automationPratice -INFO - Entered adress
+2019-08-04 15:18:00,857 - automationPratice -INFO - Entered city
+2019-08-04 15:18:01,029 - automationPratice -INFO - Picked state
+2019-08-04 15:18:01,182 - automationPratice -INFO - Entered zip code
+2019-08-04 15:18:01,290 - automationPratice -INFO - Picked country
+2019-08-04 15:18:01,459 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:18:02,972 - automationPratice -INFO - Clicked register button
+2019-08-04 15:18:03,017 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:18:14,028 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:18:14,223 - automationPratice -INFO - User name inputed
+2019-08-04 15:18:14,400 - automationPratice -INFO - Password inputed
+2019-08-04 15:18:15,783 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:18:15,822 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:18:16,907 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:18:17,071 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:18:17,148 - automationPratice -INFO - Attached txt file
+2019-08-04 15:18:17,313 - automationPratice -INFO - Entered test message
+2019-08-04 15:18:18,137 - automationPratice -INFO - Clicked send button
+2019-08-04 15:18:18,188 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:18:18,188 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:18:28,133 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:18:28,329 - automationPratice -INFO - User name inputed
+2019-08-04 15:18:28,494 - automationPratice -INFO - Password inputed
+2019-08-04 15:18:30,140 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:18:30,162 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:18:31,881 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:18:31,941 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:18:31,941 - automationPratice -INFO - Test passed
+2019-08-04 15:18:42,008 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:18:42,245 - automationPratice -INFO - User name inputed
+2019-08-04 15:18:42,421 - automationPratice -INFO - Password inputed
+2019-08-04 15:18:43,828 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:18:43,843 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:18:45,578 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:22:00,532 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:22:00,781 - automationPratice -INFO - User name inputed
+2019-08-04 15:22:00,970 - automationPratice -INFO - Password inputed
+2019-08-04 15:22:02,443 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:22:02,464 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:22:13,025 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:22:13,395 - automationPratice -INFO - Random email inputed
+2019-08-04 15:22:13,515 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:22:13,529 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:22:15,087 - automationPratice -INFO - Title selected
+2019-08-04 15:22:15,250 - automationPratice -INFO - Entered first name
+2019-08-04 15:22:15,422 - automationPratice -INFO - Entered last name
+2019-08-04 15:22:15,669 - automationPratice -INFO - Entered password
+2019-08-04 15:22:15,868 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:22:16,043 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:22:16,195 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:22:16,317 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:22:16,424 - automationPratice -INFO - Special offers selected
+2019-08-04 15:22:16,580 - automationPratice -INFO - Entered company name
+2019-08-04 15:22:16,715 - automationPratice -INFO - Entered adress
+2019-08-04 15:22:16,845 - automationPratice -INFO - Entered city
+2019-08-04 15:22:16,996 - automationPratice -INFO - Picked state
+2019-08-04 15:22:17,136 - automationPratice -INFO - Entered zip code
+2019-08-04 15:22:17,239 - automationPratice -INFO - Picked country
+2019-08-04 15:22:17,413 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:22:19,237 - automationPratice -INFO - Clicked register button
+2019-08-04 15:22:19,274 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:22:29,603 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:22:29,841 - automationPratice -INFO - User name inputed
+2019-08-04 15:22:30,032 - automationPratice -INFO - Password inputed
+2019-08-04 15:22:31,664 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:22:31,675 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:22:32,853 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:22:33,026 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:22:33,101 - automationPratice -INFO - Attached txt file
+2019-08-04 15:22:33,263 - automationPratice -INFO - Entered test message
+2019-08-04 15:22:34,037 - automationPratice -INFO - Clicked send button
+2019-08-04 15:22:34,085 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:22:34,086 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:22:44,583 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:22:44,822 - automationPratice -INFO - User name inputed
+2019-08-04 15:22:45,014 - automationPratice -INFO - Password inputed
+2019-08-04 15:22:46,370 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:22:46,387 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:22:47,979 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:22:48,042 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:22:48,042 - automationPratice -INFO - Test passed
+2019-08-04 15:22:58,147 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:22:58,381 - automationPratice -INFO - User name inputed
+2019-08-04 15:22:58,548 - automationPratice -INFO - Password inputed
+2019-08-04 15:22:59,995 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:23:00,020 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:23:01,340 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:24:28,035 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:24:28,286 - automationPratice -INFO - User name inputed
+2019-08-04 15:24:28,475 - automationPratice -INFO - Password inputed
+2019-08-04 15:24:30,101 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:24:30,120 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:24:40,638 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:24:41,105 - automationPratice -INFO - Random email inputed
+2019-08-04 15:24:41,291 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:24:41,305 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:24:42,615 - automationPratice -INFO - Title selected
+2019-08-04 15:24:42,786 - automationPratice -INFO - Entered first name
+2019-08-04 15:24:42,939 - automationPratice -INFO - Entered last name
+2019-08-04 15:24:43,175 - automationPratice -INFO - Entered password
+2019-08-04 15:24:43,390 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:24:43,558 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:24:43,713 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:24:43,823 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:24:43,927 - automationPratice -INFO - Special offers selected
+2019-08-04 15:24:44,088 - automationPratice -INFO - Entered company name
+2019-08-04 15:24:44,237 - automationPratice -INFO - Entered adress
+2019-08-04 15:24:44,377 - automationPratice -INFO - Entered city
+2019-08-04 15:24:44,536 - automationPratice -INFO - Picked state
+2019-08-04 15:24:44,693 - automationPratice -INFO - Entered zip code
+2019-08-04 15:24:44,789 - automationPratice -INFO - Picked country
+2019-08-04 15:24:44,948 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:24:46,753 - automationPratice -INFO - Clicked register button
+2019-08-04 15:24:46,809 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:24:57,118 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:24:57,319 - automationPratice -INFO - User name inputed
+2019-08-04 15:24:57,501 - automationPratice -INFO - Password inputed
+2019-08-04 15:24:58,836 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:24:58,850 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:24:59,991 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:25:00,156 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:25:00,224 - automationPratice -INFO - Attached txt file
+2019-08-04 15:25:00,375 - automationPratice -INFO - Entered test message
+2019-08-04 15:25:01,188 - automationPratice -INFO - Clicked send button
+2019-08-04 15:25:01,238 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:25:01,239 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:25:11,086 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:25:11,312 - automationPratice -INFO - User name inputed
+2019-08-04 15:25:11,546 - automationPratice -INFO - Password inputed
+2019-08-04 15:25:12,941 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:25:12,959 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:25:14,592 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:25:14,656 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:25:14,656 - automationPratice -INFO - Test passed
+2019-08-04 15:25:24,986 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:25:25,219 - automationPratice -INFO - User name inputed
+2019-08-04 15:25:25,415 - automationPratice -INFO - Password inputed
+2019-08-04 15:25:27,050 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:25:27,062 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:25:28,389 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:26:16,046 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:26:16,285 - automationPratice -INFO - User name inputed
+2019-08-04 15:26:16,478 - automationPratice -INFO - Password inputed
+2019-08-04 15:26:17,893 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:26:17,911 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:26:28,411 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:26:28,784 - automationPratice -INFO - Random email inputed
+2019-08-04 15:26:28,921 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:26:28,933 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:26:30,491 - automationPratice -INFO - Title selected
+2019-08-04 15:26:30,692 - automationPratice -INFO - Entered first name
+2019-08-04 15:26:30,894 - automationPratice -INFO - Entered last name
+2019-08-04 15:26:31,213 - automationPratice -INFO - Entered password
+2019-08-04 15:26:31,459 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:26:31,647 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:26:31,806 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:26:31,957 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:26:32,065 - automationPratice -INFO - Special offers selected
+2019-08-04 15:26:32,261 - automationPratice -INFO - Entered company name
+2019-08-04 15:26:32,429 - automationPratice -INFO - Entered adress
+2019-08-04 15:26:32,586 - automationPratice -INFO - Entered city
+2019-08-04 15:26:32,771 - automationPratice -INFO - Picked state
+2019-08-04 15:26:32,938 - automationPratice -INFO - Entered zip code
+2019-08-04 15:26:33,048 - automationPratice -INFO - Picked country
+2019-08-04 15:26:33,219 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:26:34,562 - automationPratice -INFO - Clicked register button
+2019-08-04 15:26:34,619 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:26:45,049 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:26:45,244 - automationPratice -INFO - User name inputed
+2019-08-04 15:26:45,405 - automationPratice -INFO - Password inputed
+2019-08-04 15:26:47,186 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:26:47,205 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:26:48,579 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:26:48,750 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:26:48,827 - automationPratice -INFO - Attached txt file
+2019-08-04 15:26:49,011 - automationPratice -INFO - Entered test message
+2019-08-04 15:26:50,182 - automationPratice -INFO - Clicked send button
+2019-08-04 15:26:50,246 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:26:50,246 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:27:00,371 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:27:00,574 - automationPratice -INFO - User name inputed
+2019-08-04 15:27:00,743 - automationPratice -INFO - Password inputed
+2019-08-04 15:27:02,155 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:27:02,171 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:27:03,891 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:27:03,940 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:27:03,941 - automationPratice -INFO - Test passed
+2019-08-04 15:27:14,461 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:27:14,703 - automationPratice -INFO - User name inputed
+2019-08-04 15:27:14,898 - automationPratice -INFO - Password inputed
+2019-08-04 15:27:16,270 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:27:16,281 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:27:17,689 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:29:02,060 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:29:02,291 - automationPratice -INFO - User name inputed
+2019-08-04 15:29:02,492 - automationPratice -INFO - Password inputed
+2019-08-04 15:29:04,231 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:29:04,247 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:29:05,965 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:30:17,461 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:30:17,765 - automationPratice -INFO - User name inputed
+2019-08-04 15:30:17,989 - automationPratice -INFO - Password inputed
+2019-08-04 15:30:19,920 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:30:19,937 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:30:21,431 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:31:13,874 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:31:14,102 - automationPratice -INFO - User name inputed
+2019-08-04 15:31:14,302 - automationPratice -INFO - Password inputed
+2019-08-04 15:31:15,698 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:31:15,715 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:31:17,819 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:32:00,398 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:32:00,609 - automationPratice -INFO - User name inputed
+2019-08-04 15:32:00,790 - automationPratice -INFO - Password inputed
+2019-08-04 15:32:02,295 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:32:02,314 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:32:03,600 - automationPratice -INFO - Entered searched keyword
+2019-08-04 15:42:33,539 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:42:33,812 - automationPratice -INFO - User name inputed
+2019-08-04 15:42:34,023 - automationPratice -INFO - Password inputed
+2019-08-04 15:42:35,505 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:42:35,525 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:42:45,897 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:42:46,327 - automationPratice -INFO - Random email inputed
+2019-08-04 15:42:46,484 - automationPratice -INFO - Create an account button clicked
+2019-08-04 15:42:46,496 - automationPratice -INFO - Succesfully get to account details page
+2019-08-04 15:42:47,975 - automationPratice -INFO - Title selected
+2019-08-04 15:42:48,211 - automationPratice -INFO - Entered first name
+2019-08-04 15:42:48,486 - automationPratice -INFO - Entered last name
+2019-08-04 15:42:48,697 - automationPratice -INFO - Entered password
+2019-08-04 15:42:48,936 - automationPratice -INFO - Picked day of birth
+2019-08-04 15:42:49,123 - automationPratice -INFO - Picked Month of birth
+2019-08-04 15:42:49,287 - automationPratice -INFO - Picked year of birth
+2019-08-04 15:42:49,422 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-04 15:42:49,544 - automationPratice -INFO - Special offers selected
+2019-08-04 15:42:49,725 - automationPratice -INFO - Entered company name
+2019-08-04 15:42:49,886 - automationPratice -INFO - Entered adress
+2019-08-04 15:42:50,036 - automationPratice -INFO - Entered city
+2019-08-04 15:42:50,196 - automationPratice -INFO - Picked state
+2019-08-04 15:42:50,326 - automationPratice -INFO - Entered zip code
+2019-08-04 15:42:50,414 - automationPratice -INFO - Picked country
+2019-08-04 15:42:50,560 - automationPratice -INFO - Entered mobile phone number
+2019-08-04 15:42:51,949 - automationPratice -INFO - Clicked register button
+2019-08-04 15:42:51,978 - automationPratice -INFO - Succesfully created account
+2019-08-04 15:43:02,662 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:43:02,892 - automationPratice -INFO - User name inputed
+2019-08-04 15:43:03,091 - automationPratice -INFO - Password inputed
+2019-08-04 15:43:05,121 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:43:05,135 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:43:06,628 - automationPratice -INFO - Clicked on Contact us button
+2019-08-04 15:43:06,802 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-04 15:43:06,878 - automationPratice -INFO - Attached txt file
+2019-08-04 15:43:07,044 - automationPratice -INFO - Entered test message
+2019-08-04 15:43:08,169 - automationPratice -INFO - Clicked send button
+2019-08-04 15:43:08,219 - automationPratice -INFO - Sucess screen appears
+2019-08-04 15:43:08,219 - automationPratice -INFO - Succesfully sent message
+2019-08-04 15:43:18,917 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:43:19,159 - automationPratice -INFO - User name inputed
+2019-08-04 15:43:19,372 - automationPratice -INFO - Password inputed
+2019-08-04 15:43:20,797 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:43:20,814 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:43:22,751 - automationPratice -INFO - Clicked sign out button
+2019-08-04 15:43:22,805 - automationPratice -INFO - Sign In button is displayed
+2019-08-04 15:43:22,805 - automationPratice -INFO - Test passed
+2019-08-04 15:43:32,899 - automationPratice -INFO - Sign in button clicked
+2019-08-04 15:43:33,119 - automationPratice -INFO - User name inputed
+2019-08-04 15:43:33,320 - automationPratice -INFO - Password inputed
+2019-08-04 15:43:34,706 - automationPratice -INFO - User successfully signed in
+2019-08-04 15:43:34,721 - automationPratice -INFO - Sucessfully loged in
+2019-08-04 15:43:36,254 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:27:13,570 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:27:13,833 - automationPratice -INFO - User name inputed
+2019-08-05 18:27:14,027 - automationPratice -INFO - Password inputed
+2019-08-05 18:27:15,472 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:27:15,495 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:27:17,416 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:29:09,125 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:29:09,374 - automationPratice -INFO - User name inputed
+2019-08-05 18:29:09,551 - automationPratice -INFO - Password inputed
+2019-08-05 18:29:11,455 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:29:11,473 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:29:12,816 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:29:12,918 - automationPratice -INFO - Sucess screen appears
+2019-08-05 18:29:13,086 - automationPratice -INFO - Sucess screen appears
+2019-08-05 18:33:06,265 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:33:06,497 - automationPratice -INFO - User name inputed
+2019-08-05 18:33:06,674 - automationPratice -INFO - Password inputed
+2019-08-05 18:33:08,191 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:33:08,205 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:33:09,482 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:33:09,581 - automationPratice -INFO - Found searched word
+2019-08-05 18:33:09,745 - automationPratice -INFO - Found searched word
+2019-08-05 18:36:45,316 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:36:45,559 - automationPratice -INFO - User name inputed
+2019-08-05 18:36:45,753 - automationPratice -INFO - Password inputed
+2019-08-05 18:36:47,079 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:36:47,096 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:36:48,362 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:36:48,462 - automationPratice -INFO - Found searched word
+2019-08-05 18:36:48,626 - automationPratice -INFO - Found searched word
+2019-08-05 18:44:32,899 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:44:33,156 - automationPratice -INFO - User name inputed
+2019-08-05 18:44:33,349 - automationPratice -INFO - Password inputed
+2019-08-05 18:44:35,278 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:44:35,293 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:44:37,006 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:44:37,129 - automationPratice -INFO - Found searched word
+2019-08-05 18:44:37,287 - automationPratice -INFO - Found searched word
+2019-08-05 18:44:38,988 - automationPratice -INFO - No results alert message is displayed
+2019-08-05 18:45:52,978 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:45:53,227 - automationPratice -INFO - User name inputed
+2019-08-05 18:45:53,420 - automationPratice -INFO - Password inputed
+2019-08-05 18:45:54,744 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:45:54,766 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:46:05,234 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:46:05,592 - automationPratice -INFO - Random email inputed
+2019-08-05 18:46:05,722 - automationPratice -INFO - Create an account button clicked
+2019-08-05 18:46:05,735 - automationPratice -INFO - Succesfully get to account details page
+2019-08-05 18:46:07,065 - automationPratice -INFO - Title selected
+2019-08-05 18:46:07,266 - automationPratice -INFO - Entered first name
+2019-08-05 18:46:07,462 - automationPratice -INFO - Entered last name
+2019-08-05 18:46:07,761 - automationPratice -INFO - Entered password
+2019-08-05 18:46:08,005 - automationPratice -INFO - Picked day of birth
+2019-08-05 18:46:08,189 - automationPratice -INFO - Picked Month of birth
+2019-08-05 18:46:08,359 - automationPratice -INFO - Picked year of birth
+2019-08-05 18:46:08,484 - automationPratice -INFO - Sign up for our newsletter selected
+2019-08-05 18:46:08,602 - automationPratice -INFO - Special offers selected
+2019-08-05 18:46:08,783 - automationPratice -INFO - Entered company name
+2019-08-05 18:46:08,950 - automationPratice -INFO - Entered adress
+2019-08-05 18:46:09,097 - automationPratice -INFO - Entered city
+2019-08-05 18:46:09,274 - automationPratice -INFO - Picked state
+2019-08-05 18:46:09,445 - automationPratice -INFO - Entered zip code
+2019-08-05 18:46:09,549 - automationPratice -INFO - Picked country
+2019-08-05 18:46:09,718 - automationPratice -INFO - Entered mobile phone number
+2019-08-05 18:46:11,912 - automationPratice -INFO - Clicked register button
+2019-08-05 18:46:11,948 - automationPratice -INFO - Succesfully created account
+2019-08-05 18:46:22,341 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:46:22,538 - automationPratice -INFO - User name inputed
+2019-08-05 18:46:22,702 - automationPratice -INFO - Password inputed
+2019-08-05 18:46:25,267 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:46:25,281 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:46:26,414 - automationPratice -INFO - Clicked on Contact us button
+2019-08-05 18:46:26,555 - automationPratice -INFO - Subject of mesasge was picked
+2019-08-05 18:46:26,620 - automationPratice -INFO - Attached txt file
+2019-08-05 18:46:26,774 - automationPratice -INFO - Entered test message
+2019-08-05 18:46:27,554 - automationPratice -INFO - Clicked send button
+2019-08-05 18:46:27,603 - automationPratice -INFO - Sucess screen appears
+2019-08-05 18:46:27,603 - automationPratice -INFO - Succesfully sent message
+2019-08-05 18:46:38,587 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:46:38,823 - automationPratice -INFO - User name inputed
+2019-08-05 18:46:39,066 - automationPratice -INFO - Password inputed
+2019-08-05 18:46:40,625 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:46:40,641 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:46:44,495 - automationPratice -INFO - Clicked sign out button
+2019-08-05 18:46:44,542 - automationPratice -INFO - Sign In button is displayed
+2019-08-05 18:46:44,542 - automationPratice -INFO - Test passed
+2019-08-05 18:46:55,590 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:46:55,821 - automationPratice -INFO - User name inputed
+2019-08-05 18:46:56,023 - automationPratice -INFO - Password inputed
+2019-08-05 18:46:57,817 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:46:57,827 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:46:59,848 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:47:01,602 - automationPratice -INFO - 'No results' - alert message is displayed
+2019-08-05 18:50:21,863 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:50:22,106 - automationPratice -INFO - User name inputed
+2019-08-05 18:50:22,309 - automationPratice -INFO - Password inputed
+2019-08-05 18:50:23,665 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:50:23,692 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:50:25,041 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:51:37,528 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:51:37,747 - automationPratice -INFO - User name inputed
+2019-08-05 18:51:37,913 - automationPratice -INFO - Password inputed
+2019-08-05 18:51:39,268 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:51:39,285 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:51:40,729 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:52:20,762 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:52:20,994 - automationPratice -INFO - User name inputed
+2019-08-05 18:52:21,193 - automationPratice -INFO - Password inputed
+2019-08-05 18:52:22,849 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:52:22,867 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:52:24,322 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:53:19,232 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:53:19,468 - automationPratice -INFO - User name inputed
+2019-08-05 18:53:19,668 - automationPratice -INFO - Password inputed
+2019-08-05 18:53:21,374 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:53:21,392 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:53:23,731 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:53:25,882 - automationPratice -INFO - 'No results' - alert message is displayed
+2019-08-05 18:54:07,853 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:54:08,089 - automationPratice -INFO - User name inputed
+2019-08-05 18:54:08,286 - automationPratice -INFO - Password inputed
+2019-08-05 18:54:09,915 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:54:09,936 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:54:11,379 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:54:11,505 - automationPratice -INFO - Found searched word
+2019-08-05 18:54:11,692 - automationPratice -INFO - Found searched word
+2019-08-05 18:54:12,904 - automationPratice -INFO - 'No results' - alert message is displayed
+2019-08-05 18:55:20,109 - automationPratice -INFO - Sign in button clicked
+2019-08-05 18:55:20,379 - automationPratice -INFO - User name inputed
+2019-08-05 18:55:20,575 - automationPratice -INFO - Password inputed
+2019-08-05 18:55:22,925 - automationPratice -INFO - User successfully signed in
+2019-08-05 18:55:22,940 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 18:55:24,430 - automationPratice -INFO - Entered searched keyword
+2019-08-05 18:55:24,510 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,587 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,610 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,632 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,666 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,691 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,717 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,738 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,761 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,782 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:24,807 - automationPratice -INFO - Found searched word
+2019-08-05 18:55:26,001 - automationPratice -INFO - 'No results' - alert message is displayed
+2019-08-05 19:30:57,935 - automationPratice -INFO - Sign in button clicked
+2019-08-05 19:30:58,167 - automationPratice -INFO - User name inputed
+2019-08-05 19:30:58,346 - automationPratice -INFO - Password inputed
+2019-08-05 19:30:59,648 - automationPratice -INFO - User successfully signed in
+2019-08-05 19:30:59,670 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 19:33:12,884 - automationPratice -INFO - Sign in button clicked
+2019-08-05 19:33:13,103 - automationPratice -INFO - User name inputed
+2019-08-05 19:33:13,279 - automationPratice -INFO - Password inputed
+2019-08-05 19:33:15,185 - automationPratice -INFO - User successfully signed in
+2019-08-05 19:33:15,202 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 19:38:26,216 - automationPratice -INFO - Sign in button clicked
+2019-08-05 19:38:26,451 - automationPratice -INFO - User name inputed
+2019-08-05 19:38:26,641 - automationPratice -INFO - Password inputed
+2019-08-05 19:38:28,515 - automationPratice -INFO - User successfully signed in
+2019-08-05 19:38:28,536 - automationPratice -INFO - Sucessfully loged in
+2019-08-05 19:38:30,396 - automationPratice -INFO - Entered searching word
+2019-08-05 19:38:30,546 - automationPratice -INFO - Clicked list view
+2019-08-05 19:38:30,682 - automationPratice -INFO - Clicked add to cart button
+2019-08-05 19:38:32,707 - automationPratice -INFO - Clicked proceed to checkout button

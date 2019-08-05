@@ -11,11 +11,8 @@
     <test name="automationPratice Test">
         <parameter name="browser" value="chrome" />
         <classes>
-            <class name="testCases.TC_LoginTest_1" />
-            <class name="testCases.TC_SignInTest_2" />
-            <class name="testCases.TC_ContactUsTest_4" />
-            <class name="testCases.TC_SignOutTest_5" />
-            <class name="testCases.TC_SearchTest_6" />
+
+            <class name="testCases.TC_SearchAndAddToCartTest_7" />
 
 
 

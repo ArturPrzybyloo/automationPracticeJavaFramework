@@ -7,4 +7,4 @@ ie = ./Drivers\\IEDriverServer.exe
 firstName = Andrzej
 lastName = Kowalski
 message = TEST MESSAGE
-search = shirt
+search = Dress
